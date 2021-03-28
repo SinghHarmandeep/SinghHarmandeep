@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating techonological solutions
 - 🌱 I’m currently learning Express, NodeJS, Redux-React, MongoDB
 - 💞️ I’m looking to collaborate on open source projects, with "huge upside potential and a very low lowside potential"
-- 📫 How to reach me: email me at: harmandeep.sm@gmail.com, or get in touch on linkedIN.
+- 📫 How to reach me: email me at: deepharman2000@gmail.com, or get in touch on linkedIn.
 
 <!---
 SinghHarmandeep/SinghHarmandeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
